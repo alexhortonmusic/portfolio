@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alex Horton <alexhortondev@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexhortonmusic/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
